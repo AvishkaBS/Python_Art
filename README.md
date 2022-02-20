@@ -20,4 +20,5 @@
 ![Design](https://user-images.githubusercontent.com/98567144/154828292-f130cd7b-7344-499e-bc9a-98068d7baf4d.jpg)
 
 **Greeting Card using generated art**
+
 ![Greeting Card](https://user-images.githubusercontent.com/98567144/154828289-531359a5-7acf-488c-9920-b01333d95a7c.jpg)
