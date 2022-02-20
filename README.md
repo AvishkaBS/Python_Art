@@ -17,6 +17,7 @@
 **Screenshots**
 
 ![Flowchart](https://user-images.githubusercontent.com/98567144/154828291-56753b83-02be-4fd3-a7ac-0aeb0330dd94.jpg)
+
 ![Design](https://user-images.githubusercontent.com/98567144/154828292-f130cd7b-7344-499e-bc9a-98068d7baf4d.jpg)
 
 **Greeting Card using generated art**
